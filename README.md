@@ -1,6 +1,7 @@
 # -Bookstore
-//bull
+
 var listOfAllKnownAuthors = []
+
 
 class BookStore
 {
